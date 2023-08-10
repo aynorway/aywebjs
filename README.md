@@ -1,4 +1,4 @@
-[中文](README_cn.md)
+[中文 Chinese](README_cn.md)
 
 # AYWEBJS
 
@@ -58,7 +58,7 @@ aywebjs/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/aywebjs.git
+   git clone https://github.com/aynorway/aywebjs.git
    ```
 
 2. **Install dependencies**:

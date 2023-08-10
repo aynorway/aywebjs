@@ -1,4 +1,4 @@
-// # 11 在middlewares目录下创建verifyToken.js文件，它将被用来验证请求中的JWT token。
+// # 11 在middlewares目录下创建verifyToken.js文件，它将被用来验证请求中的JWT token。英文是Json web token。
 
 
 // middlewares/verifyToken.js
